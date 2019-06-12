@@ -1,6 +1,6 @@
 <?php 
 
-class ControladorUsuarios { 
+class ControladorUsuarios{ 
 
     /*=============================================
 	LOGIN de USUARIOS              
